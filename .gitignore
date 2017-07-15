@@ -1,1 +1,4 @@
 vendor/
+
+#ignore workspace
+.idea/workspace.xml
